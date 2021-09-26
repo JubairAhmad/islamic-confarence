@@ -1,0 +1,18 @@
+.invitation-container{
+    text-align: center;
+    margin-left:10px ;
+    background-color: rgba(246, 234, 123, 0.26);
+    border-radius: 25px;
+    margin-top: 10px;
+}
+.person-result{
+    padding:0 20px;
+    display: flex;
+    justify-content:  space-between;
+}
+.person-result img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-right: 5px;
+}
